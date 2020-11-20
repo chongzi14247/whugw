@@ -2,6 +2,6 @@ Some nonsense
 
 *Nonsense*
 
-==Nonsense==
+**Nonsense**
 
-#Nonesense#
+***Nonesense***
